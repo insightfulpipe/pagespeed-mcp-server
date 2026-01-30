@@ -1,11 +1,14 @@
-# PageSpeed Insights MCP Server
+# PageSpeed Insights MCP Server by Insightful Pipe
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-blue)](https://insightfulpipe.com/mcp-servers/pagespeed)
+[![Insightful Pipe](https://img.shields.io/badge/Insightful_Pipe-MCP_Servers-purple)](https://insightfulpipe.com/mcp-servers)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Analyze website performance and Core Web Vitals with AI through MCP.**
 
-The PageSpeed Insights MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze website performance. Get Core Web Vitals, performance scores, and AI-powered optimization recommendations.
+Part of the [Insightful Pipe MCP Server Collection](https://insightfulpipe.com/mcp-servers) — The PageSpeed Insights MCP server enables Claude, ChatGPT, Cursor, and other AI assistants to analyze website performance. Get Core Web Vitals, performance scores, and AI-powered optimization recommendations.
+
+[![Explore All MCP Servers](https://img.shields.io/badge/Explore_All-MCP_Servers-blue?style=for-the-badge)](https://insightfulpipe.com/mcp-servers)
 
 ![PageSpeed Insights MCP Server](https://insightfulpipe.com/images/google-pagespeed-insights-icon-2021-.svg)
 
@@ -133,11 +136,20 @@ claude mcp add pagespeed https://pagespeed.insightfulmcp.com/
 - **Public page analysis** - Only public URLs
 - **Rate limiting** - API quota management
 
-## Related MCP Servers
+## Explore More MCP Servers by Insightful Pipe
 
+Visit **[insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)** to discover our full collection of MCP servers for marketing and analytics.
+
+### SEO & Performance MCP Servers
 - [Google Search Console MCP](https://insightfulpipe.com/mcp-servers/google-search-console) - SEO analytics
 - [Web Crawler MCP](https://insightfulpipe.com/mcp-servers/crawler) - Site crawling
 - [Screenshot MCP](https://insightfulpipe.com/mcp-servers/screenshot) - Visual capture
+
+### Analytics MCP Servers
+- [Google Analytics MCP](https://insightfulpipe.com/mcp-servers/google-analytics) - Website analytics
+- [Google My Business MCP](https://insightfulpipe.com/mcp-servers/google-my-business) - Local SEO
+
+**[View All MCP Servers →](https://insightfulpipe.com/mcp-servers)**
 
 ## Resources
 
@@ -148,7 +160,12 @@ claude mcp add pagespeed https://pagespeed.insightfulmcp.com/
 ## Support
 
 - **Documentation**: [insightfulpipe.com/docs](https://insightfulpipe.com/docs)
+- **All MCP Servers**: [insightfulpipe.com/mcp-servers](https://insightfulpipe.com/mcp-servers)
 - **Email**: support@insightfulpipe.com
+
+---
+
+**[Insightful Pipe](https://insightfulpipe.com)** — AI-powered marketing analytics through MCP servers. [Explore all integrations →](https://insightfulpipe.com/mcp-servers)
 
 ## License
 
